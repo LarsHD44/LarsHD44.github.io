@@ -1,0 +1,63 @@
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.bg {
+    background-color: #0e111f;
+}
+
+.loading {
+    opacity: 0,5;
+}
+
+.header {
+    background-color: rgba(0, 40, 114, 0.5);
+    text-align: left;
+}
+
+.updates {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+bg {
+    background-color: #0e111f;
+}
+
+yellow {
+    color: yellow;
+}
+
+green {
+    color: green;
+}
+
+lime {
+    color: lime;
+}
+
+blue {
+    color: rgb(8, 48, 134);
+}
+
+light-blue {
+    color: darkturquoise;
+}
+
+purple {
+    color: purple;
+}
+
+white {
+    color: white;
+}
+
